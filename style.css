@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+
+.boxmain {
+    margin: 0 auto;
+}
+
+.textpros {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 59px;
+    text-align: center;
+
+}
+
+.boxlottext {
+    margin: 70px auto;
+
+}
+.active{
+color: #797979;
+    background-color: #0071E3;
+}
+
+
+.alotoftext {
+    margin: 0 auto;
+    width: 1008px;
+    height: 88px;
+    margin-top: 24px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.maintomac {
+    display: flex;
+    width: 680px;
+    justify-content: space-between;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.boxletimg {
+    width: 290px;
+    height: 312px;
+    background-image: url(./img/mbp14-spacegray-select-202110\ 1.png);
+    background-repeat: no-repeat;
+}
+.boxletimgSilver {
+    width: 290px;
+    height: 312px;
+    background-image: url(./img/mbp14-silver-select-202110\ 1.png);
+    background-repeat: no-repeat;
+}
+
+.boxMacbookpro {
+    Width: 292px;
+    Height: 196px;
+}
+
+.namelaptop {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 59px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.tiplaptop {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #0071E3;
+}
+
+.paylaptop {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 59px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.boxmainbt {
+    margin: 59px auto;
+    width: 325px;
+    height: 42px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.bttruewite {
+    width: 155px;
+    height: 42px;
+    background:#CFE7FF ;
+    border-radius: 10px;
+    border: none;
+    /* margin-right: 11px; */
+}
+
+.bttruewitetext {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.btfalsespasegrat {
+    width: 155px;
+    height: 42px;
+    border: none;
+    background: #CFE7FF;
+    border-radius: 10px;
+}
+
+.btfalsespasegrattext {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #797979;
+}
+
+.btgib {
+    margin: 0 auto;
+    width: 321px;
+    height: 308px;
+    margin-bottom: 6px;
+}
+
+.memory {   
+    margin-bottom: 7px;
+    width: 321px;
+    height: 57px;
+    border: 2px solid #CFE7FF;
+    border-radius: 10px;
+}
